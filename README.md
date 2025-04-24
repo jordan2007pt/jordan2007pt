@@ -1,4 +1,4 @@
- 👋 Hi, I’m @jordan2007pt  
+ 👋 Hi, I’m @burrito
 - 👀 I’m interested in learning more about programming and exploring different programming languages.  
 - 🌱 I’m currently learning Ubuntu, VirtualBox, and coding basics.  
 - 💞️ I’m looking to collaborate on beginner-friendly programming projects and open-source initiatives.  
